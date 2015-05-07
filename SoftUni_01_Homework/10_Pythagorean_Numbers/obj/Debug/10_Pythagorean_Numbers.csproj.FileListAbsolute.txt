@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\10_Pythagorean_Numbers\bin\Debug\10_Pythagorean_Numbers.exe.config
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\10_Pythagorean_Numbers\bin\Debug\10_Pythagorean_Numbers.exe
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\10_Pythagorean_Numbers\bin\Debug\10_Pythagorean_Numbers.pdb
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\10_Pythagorean_Numbers\obj\Debug\10_Pythagorean_Numbers.exe
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\10_Pythagorean_Numbers\obj\Debug\10_Pythagorean_Numbers.pdb

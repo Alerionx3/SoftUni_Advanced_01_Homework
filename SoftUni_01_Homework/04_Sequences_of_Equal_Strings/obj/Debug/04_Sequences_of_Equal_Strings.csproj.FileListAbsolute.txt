@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\04_Sequences_of_Equal_Strings\bin\Debug\04_Sequences_of_Equal_Strings.exe.config
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\04_Sequences_of_Equal_Strings\bin\Debug\04_Sequences_of_Equal_Strings.exe
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\04_Sequences_of_Equal_Strings\bin\Debug\04_Sequences_of_Equal_Strings.pdb
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\04_Sequences_of_Equal_Strings\obj\Debug\04_Sequences_of_Equal_Strings.exe
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\04_Sequences_of_Equal_Strings\obj\Debug\04_Sequences_of_Equal_Strings.pdb

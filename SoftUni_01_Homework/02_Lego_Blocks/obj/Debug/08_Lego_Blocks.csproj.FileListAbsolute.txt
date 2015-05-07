@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\02_Lego_Blocks\bin\Debug\02_Lego_Blocks.exe.config
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\02_Lego_Blocks\bin\Debug\02_Lego_Blocks.exe
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\02_Lego_Blocks\bin\Debug\02_Lego_Blocks.pdb
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\02_Lego_Blocks\obj\Debug\02_Lego_Blocks.exe
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\02_Lego_Blocks\obj\Debug\02_Lego_Blocks.pdb
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\02_Lego_Blocks\obj\Debug\08_Lego_Blocks.csprojResolveAssemblyReference.cache

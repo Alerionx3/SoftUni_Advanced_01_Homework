@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\02_Selection_Sort\bin\Debug\02_Selection_Sort.exe.config
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\02_Selection_Sort\bin\Debug\02_Selection_Sort.exe
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\02_Selection_Sort\bin\Debug\02_Selection_Sort.pdb
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\02_Selection_Sort\obj\Debug\02_Selection_Sort.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\02_Selection_Sort\obj\Debug\02_Selection_Sort.exe
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\02_Selection_Sort\obj\Debug\02_Selection_Sort.pdb

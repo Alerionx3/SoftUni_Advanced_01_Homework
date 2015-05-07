@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\SoftUni_01_Homework\obj\Debug\01_Sort_Array_of_Numbers.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\SoftUni_01_Homework\bin\Debug\SoftUni_01_Homework.exe.config
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\SoftUni_01_Homework\bin\Debug\SoftUni_01_Homework.exe
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\SoftUni_01_Homework\bin\Debug\SoftUni_01_Homework.pdb
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\SoftUni_01_Homework\obj\Debug\SoftUni_01_Homework.exe
+c:\users\marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\SoftUni_01_Homework\obj\Debug\SoftUni_01_Homework.pdb

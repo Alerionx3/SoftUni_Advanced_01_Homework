@@ -1,0 +1,3 @@
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\05_Longest_Increasing_Sequence\bin\Debug\05_Longest_Increasing_Sequence.exe.config
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\05_Longest_Increasing_Sequence\obj\Debug\05_Longest_Increasing_Sequence.exe
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\05_Longest_Increasing_Sequence\obj\Debug\05_Longest_Increasing_Sequence.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\07_Sorted_Subset_Sums\bin\Debug\07_Sorted_Subset_Sums.exe.config
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\07_Sorted_Subset_Sums\bin\Debug\07_Sorted_Subset_Sums.exe
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\07_Sorted_Subset_Sums\bin\Debug\07_Sorted_Subset_Sums.pdb
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\07_Sorted_Subset_Sums\obj\Debug\07_Sorted_Subset_Sums.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\07_Sorted_Subset_Sums\obj\Debug\07_Sorted_Subset_Sums.exe
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\07_Sorted_Subset_Sums\obj\Debug\07_Sorted_Subset_Sums.pdb

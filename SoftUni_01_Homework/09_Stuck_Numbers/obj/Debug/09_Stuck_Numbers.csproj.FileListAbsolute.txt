@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\09_Stuck_Numbers\bin\Debug\09_Stuck_Numbers.exe.config
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\09_Stuck_Numbers\bin\Debug\09_Stuck_Numbers.exe
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\09_Stuck_Numbers\bin\Debug\09_Stuck_Numbers.pdb
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\09_Stuck_Numbers\obj\Debug\09_Stuck_Numbers.exe
+C:\Users\Marto\documents\visual studio 2013\projects\SoftUni\SoftUni_01_Homework\09_Stuck_Numbers\obj\Debug\09_Stuck_Numbers.pdb
